@@ -1,5 +1,18 @@
 # Menù
 
+PRIMI PIATTI
+-Pasta alla norma
+-Carbonara
+-Pasta alla Trapanese
+
+ANTIPASTI
+-Polpette di melanzane
+-Vitello tonnato
+-Quiche di zucchine
+-Flan di spinaci
+-Arancin*
+-Guacamole
+
 BEVANDE
 -Acqua
 -Vino
@@ -11,3 +24,6 @@ DESSERT
 -Cannoli Siciliani
 -Profiteroles
 -Cheesecake
+
+
+
