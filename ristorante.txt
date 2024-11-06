@@ -1,7 +1,6 @@
 # Menù
 
 BEVANDE
-
 -Acqua
 -Vino
 -Birra
