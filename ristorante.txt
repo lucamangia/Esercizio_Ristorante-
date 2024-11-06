@@ -1,5 +1,10 @@
 # Menù
 
+PRIMI PIATTI
+-Pasta alla norma
+-Carbonara
+-Pasta alla Trapanese
+
 ANTIPASTI
 -Polpette di melanzane
 -Vitello tonnato
