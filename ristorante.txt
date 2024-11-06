@@ -1,9 +1,18 @@
 # Menù
 
-PRIMI PIATTI
--Pasta alla norma
--Carbonara
--Pasta alla Trapanese
+# PRIMI
+ SPAGHETTI CACIO E PEPE
+Pasta fresca cacio e pepe
+ SPAGHETTI ALLA CARBONARA
+Pasta fresca alla carbonara
+ CASARECCE CON GAMBERI, ZUCCHINE
+Pasta fresca con gamberi, zucchine, panna e zafferano
+ PAPPARDELLE AL RAGù DI CINGHIALE
+Pasta fresca con carne tagliata al coltello
+ GNOCCHI AL POMODORO E BASILICO
+Gnocchi di patate con pomodoro e basilico
+ RAVIOLI AL BRANZINO
+Pasta fresca ripiena di branzino con crema di zucchine
 
 ANTIPASTI
 -Polpette di melanzane
