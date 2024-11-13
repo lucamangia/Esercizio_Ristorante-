@@ -8,6 +8,10 @@
  -Arancin*
  -Guacamole
 
+#SECONDI PIATTI
+ -abbacchio
+ -filetto
+
 DESSERT
 -Tiramisù
 -Cannoli Siciliani
@@ -19,6 +23,7 @@ BEVANDE
 -Vino
 -Birra
 -Analcolici
+
 
 
 
